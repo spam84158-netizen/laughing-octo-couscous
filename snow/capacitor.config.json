@@ -1,0 +1,9 @@
+{
+  "appId": "com.snowcloud.chek",
+  "appName": "Snow Cloud Chek",
+  "webDir": "inconnuboy",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
